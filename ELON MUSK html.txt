@@ -69,11 +69,11 @@ return false;
 </body>
      <script>
 
-          window.aler("Hola bienvenido a mi sitio web!");
+          window.alert("Hola bienvenido a mi sitio web!");
 
           var nombre;
 
-          nombre=window.promp("Escribe tu nombre");
+          nombre=window.prompt("Escribe tu nombre");
 
           document.write("Bienvenid@: ");
 
